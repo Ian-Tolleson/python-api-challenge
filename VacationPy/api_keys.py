@@ -1,5 +1,5 @@
 # OpenWeatherMap API Key
-weather_api_key = "c300f5524b593fac837a5431b094a4e1"
+weather_api_key = "I assume I'm supposed to redact this before making it public on GitHub"
 
 # Google API Key
-g_key = "AIzaSyAEo1pO854jFGYt4BxSqDPUje9WOb3rV1w"
+g_key = "I assume I'm supposed to redact this before making it public on GitHub"
